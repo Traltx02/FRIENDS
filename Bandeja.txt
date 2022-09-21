@@ -1,0 +1,70 @@
+ <html>
+    <head>
+      <title> Bandeja </title>
+      
+
+      <link rel = "stylesheet" type = "text/css" href = "style.css">
+      <a href="startsesion.html" target="_blank"></a>
+      </head>
+      <body>
+
+        
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+          <div class="navbar-brand">
+            <a class="navbar-item" href="bandeja.html">
+              <img src="/img/img3.png" width="150" height="150">
+            </a>
+        
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+        
+        
+        
+            <div class="navbar-end">
+              <div class="navbar-item">
+                <div class="buttons">
+                  <a href="/app/registre.html" class="button is-primary">
+                    <strong>Sign up</strong>
+                  </a>
+                  <a href="/app/index.html" class="button is-light">
+                    Log in
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+        <div class="container">
+          <div class="notification is-primary">
+            App la cual puedes conocer varias personal las cuales podras interactuar y cambiar teamas de conversación interesantes
+                    </div>
+        </div>
+
+
+
+        <div id="login-form-container">
+          <div  class="card" style="width: 400px;">
+        
+        
+        <div class="field is-horizontal">
+          <div class="field-label is-normal">
+            <label class="label">To</label>
+          </div>
+          <div class="field-body">
+            <div class="field">
+              <p class="control">
+                <input class="input" type="email" placeholder="Recipient email">
+              </p>
+            </div>
+          </div>
+        </div>
+        </div>
+     
+    
+      </body>
+    </html>

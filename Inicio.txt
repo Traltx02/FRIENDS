@@ -1,0 +1,101 @@
+<div class="phone">
+	<header class="header">
+		<div class="header-logo">
+			<div>
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<div class="header-title">
+			Inicio
+		</div>
+		<div class="header-buttons">
+			<button class="notifications">
+				<i class="ai-bell"></i>
+			</button>
+			<button class="avatar">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvixcYC8gMG9Ze993dI8pRIGAByzgufo6Eg&usqp=CAU" />
+			</button>
+		</div>
+	</header>
+	<section class="title">
+		<h1>Encuentra tus nuevos amigos</h1>
+		<p>Conoce Personas</p>
+	</section>
+	<section class="search">
+		<div class="search-inner">
+			<button class="search-button">
+				<i class="ai-search"></i>
+			</button>
+			<input type="text" class="search-input" placeholder="Buscar  Amigo" />
+
+		</div>
+	</section>
+
+	<nav class="navigation">
+		<a href="#" class="navigation-item active">Inicio</a>
+		<a href="#" class="navigation-item">Tus Amigos</a>
+		<a href="#" class="navigation-item">Ajustes</a>
+		
+	</nav>
+	<section class="playlists">
+
+		<article class="card">
+			<div class="card-inner">
+				<span class="card-pin"></span>
+				<div class="card-image">
+					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2LQ1_e0fcKGrJ8XnsY2QsyQKhnp8Ob06KA&usqp=CAU" />
+				</div>
+				<div class="card-content">
+					<div class="card-meta">
+						<span class="card-meta-number">17 años</span>
+						<button class="card-meta-button">
+							<i class="ai-circle-triangle-right-fill"></i>
+						</button>
+					</div>
+					<h2 class="card-title">Chuke Yepes</h2>
+				</div>
+			</div>
+		</article>
+
+		<article class="card">
+			<div class="card-inner">
+				<span class="card-pin"></span>
+				<div class="card-image">
+					<img src="https://img.freepik.com/vector-premium/perfil-hombre-dibujos-animados_18591-58484.jpg" />
+				</div>
+				<div class="card-content">
+					<div class="card-meta">
+						<span class="card-meta-number">15 Años</span>
+						<button class="card-meta-button">
+							<i class="ai-circle-triangle-right-fill"></i>
+						</button>
+					</div>
+					<h2 class="card-title">Melany Madrid</h2>
+				</div>
+			</div>
+		</article>
+	</section>
+	<section class="currently-playing">
+
+		<article class="card horizontal">
+			<div class="card-inner">
+				<span class="card-pin simple"></span>
+				<div class="card-image">
+					<img src="https://static.vecteezy.com/system/resources/previews/001/503/533/non_2x/group-of-people-cartoon-characters-free-vector.jpg" />
+				</div>
+				<div class="card-content">
+					<div class="card-meta">
+						<span class="card-meta-artist">ENTRA</span>
+						<button class="card-meta-button" style="opacity: 0;">
+							<i class="ai-circle-triangle-right-fill"></i>
+						</button>
+					</div>
+					<h2 class="card-title">Conoce nuevas personas
+						<span class="card-time">Diviertete</span>
+					</h2>
+				</div>
+				<span class="card-pin simple"></span>
+			

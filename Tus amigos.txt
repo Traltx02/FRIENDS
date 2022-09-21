@@ -1,0 +1,117 @@
+
+	
+
+
+		<html>	
+			<div class="phone">
+					<header class="header">
+						<title> Bandeja </title>
+			  			<link rel = "stylesheet" type = "text/css" href = "style.scss">
+						<div class="header-logo">
+							<div>
+								<span></span>
+								<span></span>
+								<span></span>
+								<span></span>
+							</div>
+						</div>
+						<div class="header-title">
+						Tus Amigos
+						</div>
+						<div class="header-buttons">
+							<button class="notifications">
+								<i class="ai-bell"></i>
+							</button>
+							<button class="avatar">
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvixcYC8gMG9Ze993dI8pRIGAByzgufo6Eg&usqp=CAU" />
+							</button>
+						</div>
+					</header>
+			  
+			  <body>
+				<section class="title">
+					<h1>Chatea Con Tus Nuevos Amigos</h1>
+					<p>Chate y Diviertete Con Cada Mensaje</p>
+				
+					<section class="search">
+					<div class="search-inner">
+						<button class="search-button">
+							<i class="ai-search"></i>
+						</button>
+						<input type="text" class="search-input" placeholder="Buscar Tu Ya Amigo" />
+			
+						
+			
+					</div>
+				</section>
+			
+				<nav class="navigation">
+					<a href="#" class="navigation-item">Inicio</a>
+					<a href="#" class="navigation-item active">Tus Amigos</a>
+					<a href="#" class="navigation-item">Ajustes</a>
+					
+				</nav>
+				<section class="playlists">
+			
+					<article class="card">
+						<div class="card-inner">
+							<span class="card-pin"></span>
+							<div class="card-image">
+								<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2LQ1_e0fcKGrJ8XnsY2QsyQKhnp8Ob06KA&usqp=CAU" />
+							</div>
+							<div class="card-content">
+								<div class="card-meta">
+									<span class="card-meta-number">17 años</span>
+									<button class="card-meta-button">
+										<i class="ai-circle-triangle-right-fill"></i>
+									</button>
+								</div>
+								<h2 class="card-title">Chuke Yepes</h2>
+							</div>
+						</div>
+					</article>
+			
+					<article class="card">
+						<div class="card-inner">
+							<span class="card-pin"></span>
+							<div class="card-image">
+								<img src="https://img.freepik.com/vector-premium/perfil-hombre-dibujos-animados_18591-58484.jpg" />
+							</div>
+							<div class="card-content">
+								<div class="card-meta">
+									<span class="card-meta-number">15 Años</span>
+									<button class="card-meta-button">
+										<i class="ai-circle-triangle-right-fill"></i>
+									</button>
+								</div>
+								<h2 class="card-title">Melany Madrid</h2>
+							</div>
+						</div>
+					</article>
+				</section>
+				
+						<article class="card">
+						<div class="card-inner">
+							<span class="card-pin"></span>
+							<div class="card-image">
+								<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsc3gxTrCY0On_scksMmZ5MxVGNekpAhmf3DKc3ZogQCSS5-9KMuu_nAa3pPPiUO_p3Y&usqp=CAU" />
+							</div>
+							<div class="card-content">
+								<div class="card-meta">
+									<span class="card-meta-number">16 años</span>
+									<button class="card-meta-button">
+										<i class="ai-circle-triangle-right-fill"></i>
+									</button>
+								</div>
+								<h2 class="card-title">Jazmin lopez</h2>
+							</div>
+						</div>
+					</article>
+			
+
+
+
+		
+			
+			  </body>
+			</html>

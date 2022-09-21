@@ -1,0 +1,61 @@
+<div class="phone">
+	<header class="header">
+		<div class="header-logo">
+			<div>
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+		<div class="header-title">
+Ajustes
+		</div>
+		<div class="header-buttons">
+			<button class="notifications">
+				<i class="ai-bell"></i>
+			</button>
+			<button class="avatar">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvixcYC8gMG9Ze993dI8pRIGAByzgufo6Eg&usqp=CAU" />
+			</button>
+		</div>
+	</header>
+	<section class="title">
+		<h1>Arreglalo</h1>
+		
+	
+
+		<div class="search-inner">
+	
+			</button>
+			<input type="text" class="search-input" placeholder="¿Que Necesitas?" />
+
+			
+
+		</div>
+	</section>
+
+	<nav class="navigation">
+		<a href="#" class="navigation-item">Inicio</a>
+		<a href="#" class="navigation-item">Tus Amigos</a>
+		<a href="#" class="navigation-item active">Ajustes</a>
+		
+	</nav>
+<nav class="navigation">
+		<a href="#" class="navigation-item">Configuración</a> 
+  <br>
+</nav>
+  <nav class="navigation">
+		<a href="#" class="navigation-item">Privacidad</a>
+     <br>
+</nav>
+
+    <nav class="navigation">
+		<a href="#" class="navigation-item">Cuenta</a>
+       <br>
+</nav>
+<nav class="navigation">
+		<a href="#" class="navigation-item">Salir</a>
+   <br>
+</nav>
+
